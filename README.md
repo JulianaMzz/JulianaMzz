@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Front-end · UI Design · Experiências com propósito</i><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Transformando+ideias+em+experi%C3%AAncias;Tecnologia+com+prop%C3%B3sito+e+design+criativo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Transformando+ideias+em+experi%C3%AAncias;" alt="Typing SVG" />
 </p>
 
 ---
