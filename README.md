@@ -1,42 +1,53 @@
-<h1 align="center">Olá! Eu sou a Juliana 👩🏻‍💻</h1>
+<h1 align="center">🌟 Oi, eu sou a Juliana! 👩🏻‍💻</h1>
 
 <p align="center">
-  Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas<br/>
-  Apaixonada por tecnologia, interfaces criativas e design que transforma ideias em experiências ✨🎨
+  <i>Front-end · UI Design · Experiências com propósito</i><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Transformando+ideias+em+experi%C3%AAncias;Tecnologia+com+prop%C3%B3sito+e+design+criativo" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👩🏻‍💻 Tecnologias que estudo e utilizo
+### ✨ Sobre mim
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre – Faculdade Impacta)  
+🚀 Formada pelo <strong>Instituto PROA</strong>, onde desenvolvi o projeto <a href="https://github.com/TILA-Oficial" target="_blank">TILA</a> — uma plataforma educacional gamificada para crianças  
+🎨 Apaixonada por design de interfaces que comunicam, conectam e encantam  
+🧠 Gosto de unir lógica, estética e empatia para construir soluções digitais centradas no usuário  
+💻 Foco atual: desenvolvimento Front-end e aprimoramento em UI/UX
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### ⚡ Principais
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 📚 Também estudo
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-### 📁 Principais projetos
+### 🚀 Meus Projetos em Destaque
 
-- 🧭 **[Mapa de Carreira](https://github.com/JulianaMzz/MapaDeCarreira)**  
-  Um guia com metas e etapas para minha jornada na área de tecnologia.
-
-- 💻 **[Projeto Flask](https://github.com/JulianaMzz/projeto-flask)**  
-  API de cadastro e gerenciamento de alunos e professores com Flask.
-
-- 🏫 **[Reservas API](https://github.com/JulianaMzz/Reservas_API)**  
-  Microserviço para reserva de salas via ID da turma.
-
-- 📋 **[API Atividades](https://github.com/JulianaMzz/api-atividades)**  
-  Microserviço para controle de atividades vinculadas a professores.
-
-- 🧠 **[Exercícios Java](https://github.com/JulianaMzz/exercicio-java-01)**  
-  Lista de exercícios para prática de lógica e sintaxe Java.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🌈 TILA](https://github.com/TILA-Oficial) | Plataforma gamificada de educação infantil | Figma · HTML · CSS · JS |
+| [🧭 Mapa de Carreira](https://github.com/JulianaMzz/MapaDeCarreira) | Jornada pessoal com metas e planos na área tech | Markdown |
+| [📋 API Atividades](https://github.com/JulianaMzz/api-atividades) | Microserviço de controle de atividades | Flask · Python |
+| [🏫 Reservas API](https://github.com/JulianaMzz/Reservas_API) | Reserva de salas via ID da turma | Flask · SQLite |
+| [💡 Projeto Flask](https://github.com/JulianaMzz/projeto-flask) | API de cadastro de usuários e turmas | Flask · Python |
+| [🧠 Exercícios Java](https://github.com/JulianaMzz/exercicio-java-01) | Prática de lógica e sintaxe em Java | Java |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulianaMzz&show_icons=true&theme=tokyonight&count_private=true" />
@@ -45,8 +56,13 @@
 
 ---
 
-### 📫 Onde me encontrar
+### 🌐 Onde me encontrar
 
 - 📍 São Paulo, Brasil  
 - ✉️ juliana24muniz@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/julianamzz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julianamzz)  
+
+
+---
+
+
