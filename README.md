@@ -40,9 +40,10 @@
 |--------|-----------|----------------------|
 | [🌈 TILA](https://github.com/orgs/Org-Tila/repositories) | Plataforma educacional gamificada para crianças, desenvolvida durante o curso PROA | UI/UX Design · HTML · CSS · JS |
 | [🧭 Mapa de Carreira](https://github.com/JulianaMzz/MapaDeCarreira) | Jornada pessoal com metas e planos na área tech | Markdown · Planejamento Visual |
+| [🤸‍♀️ SynergyFit](https://github.com/JulianaMzz/SynergyFit) | Aplicação focada em saúde e bem-estar, com interface amigável para agendamentos de treinos e perfil de usuários | HTML · CSS · JS · UI Design |
 | [📋 API Atividades](https://github.com/JulianaMzz/api-atividades) | Microserviço para controle de atividades | Flask · Python |
-| [🏫 Reservas API](https://github.com/JulianaMzz/Reservas_API) | API para reserva de salas com ID de turma | Flask · SQLite |
 | [💡 Projeto Flask](https://github.com/JulianaMzz/projeto-flask) | API CRUD de cadastro de usuários e turmas | Flask · Python |
+
 
 
 
