@@ -36,16 +36,15 @@
 
 ### 🚀 Meus Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [🌈 TILA](https://github.com/TILA-Oficial) | Plataforma gamificada de educação infantil | Figma · HTML · CSS · JS |
-| [🧭 Mapa de Carreira](https://github.com/JulianaMzz/MapaDeCarreira) | Jornada pessoal com metas e planos na área tech | Markdown |
-| [📋 API Atividades](https://github.com/JulianaMzz/api-atividades) | Microserviço de controle de atividades | Flask · Python |
-| [🏫 Reservas API](https://github.com/JulianaMzz/Reservas_API) | Reserva de salas via ID da turma | Flask · SQLite |
-| [💡 Projeto Flask](https://github.com/JulianaMzz/projeto-flask) | API de cadastro de usuários e turmas | Flask · Python |
-| [🧠 Exercícios Java](https://github.com/JulianaMzz/exercicio-java-01) | Prática de lógica e sintaxe em Java | Java |
+| Projeto | Descrição | Tecnologias & Papel |
+|--------|-----------|----------------------|
+| [🌈 TILA](https://github.com/orgs/Org-Tila/repositories) | Plataforma educacional gamificada para crianças, desenvolvida durante o curso PROA | UI/UX Design · HTML · CSS · JS |
+| [🧭 Mapa de Carreira](https://github.com/JulianaMzz/MapaDeCarreira) | Jornada pessoal com metas e planos na área tech | Markdown · Planejamento Visual |
+| [📋 API Atividades](https://github.com/JulianaMzz/api-atividades) | Microserviço para controle de atividades | Flask · Python |
+| [🏫 Reservas API](https://github.com/JulianaMzz/Reservas_API) | API para reserva de salas com ID de turma | Flask · SQLite |
+| [💡 Projeto Flask](https://github.com/JulianaMzz/projeto-flask) | API CRUD de cadastro de usuários e turmas | Flask · Python |
 
----
+
 
 ### 📊 Estatísticas do GitHub
 
